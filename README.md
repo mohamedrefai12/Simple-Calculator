@@ -1,4 +1,4 @@
-# flutter_application_1
+# Simple Flutter calculator
 
 A new Flutter project.
 
