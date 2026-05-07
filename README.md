@@ -1,5 +1,5 @@
 # Simple Flutter calculator
-
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6fa9a9af-8315-4d21-a5eb-668c75115037" />
 A new Flutter project.
 
 ## Getting Started
