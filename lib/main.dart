@@ -218,7 +218,6 @@ class _CalcletorState extends State<Calcletor> {
                                       displayText = third.toString();
                                     }
                                   });
-                                  // Later, we will put the math logic here!
                                   print(displayText);
                                 },
                                 child: Text(
@@ -248,7 +247,7 @@ class _CalcletorState extends State<Calcletor> {
   Widget buildButton(String buttonText) {
     return Expanded(
       child: Padding(
-        padding: const EdgeInsets.all(4.0), // Adds a tiny gap between buttons
+        padding: const EdgeInsets.all(4.0),
         child: OutlinedButton(
           onPressed: () {
             setState(() {
@@ -290,7 +289,6 @@ class _CalcletorState extends State<Calcletor> {
                 }
               }
             });
-            // Later, we will put the math logic here!
             print('$displayText pressed');
           },
           child: Text(
